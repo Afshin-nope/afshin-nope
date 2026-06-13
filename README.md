@@ -13,3 +13,11 @@
 [![](https://visitcount.itsvg.in/api?id=afshin-nope&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Metrics
+
+<div align="center">
+
+![Snake animation](https://github.com/mmRoshani/mmRoshani/blob/output/github-contribution-grid-snake.svg)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C567%20hrs-blue)
